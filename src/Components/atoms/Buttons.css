@@ -1,0 +1,10 @@
+/* Style untuk hamburger menu (button) */
+.navbar-toggler-icon {
+    background-image: none; /* Menghapus ikon default */
+  }
+  
+  .navbar-toggler {
+    border: none; /* Menghapus border */
+    padding: 8px; /* Padding untuk tombol */
+  }
+  

@@ -1,0 +1,15 @@
+.latest-work-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 40px;
+    background-color: #fff;
+  }
+  
+  .latest-work-title {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #333;
+  }
+  

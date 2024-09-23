@@ -1,0 +1,16 @@
+.logoo {
+  display: flex;
+  align-items: center;
+ 
+}
+
+.App-logoo {
+  height: 5vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logoo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
