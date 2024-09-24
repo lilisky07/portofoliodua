@@ -1,8 +1,8 @@
 import React from 'react';
-import SocialIcon from '../atoms/SocialIcon';
+import SocialIcon from '../../atoms/Footer/SocialIcon';
 import './FooterSocialMedia.css';
-import facebook from '../image/facebook.png';
-import icon1 from '../image/discord.png';
+import facebook from '../../image/facebook.png';
+import icon1 from '../../image/discord.png';
 
 const SocialMedia = () => {
   return (

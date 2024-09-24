@@ -1,6 +1,6 @@
 import React from 'react';
-import SocialMedia from '../molecules/FooterSocialMedia';
-import Form from '../molecules/FooterForm';
+import SocialMedia from '../../molecules/Footer/FooterSocialMedia';
+import Form from '../../molecules/Footer/FooterForm';
 import './Footer.css';
 
 const Footer = () => {

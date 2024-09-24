@@ -1,7 +1,7 @@
 import React from 'react';
-import WorkItem from '../molecules/WorkItem';
+import WorkItem from '../../molecules/LatestWork/WorkItem';
 import './LatestWork.css';
-import work from '../image/Image.png';
+import work from '../../image/Image.png';
 
 const LatestWork = () => {
   const works = [

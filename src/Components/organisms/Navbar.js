@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import Logo from '../atoms/Logo';
-import NavbarLinks from '../molecules/NavbarLinks';
+import Logo from '../atoms/Navbar/Logo';
+import NavbarLinks from '../molecules/Navbar/NavbarLinks';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 

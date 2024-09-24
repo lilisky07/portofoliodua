@@ -1,7 +1,7 @@
 import React from 'react';
 
-import WorkTitle from '../atoms/WorkTitle';
-import WorkDescription from '../atoms/WorkDescription';
+import WorkTitle from '../../atoms/LatestWork/WorkTitle';
+import WorkDescription from '../../atoms/LatestWork/WorkDescription';
 import './WorkItem.css';
 
 const WorkItem = ({ imageUrl, title, description }) => {

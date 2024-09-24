@@ -1,6 +1,6 @@
 import React from 'react';
-import InputField from '../atoms/InputField';
-import Button from '../atoms/ButtonHeader';
+import InputField from '../../atoms/Footer/InputField';
+import Button from '../../atoms/Header/ButtonHeader';
 import FooterForm from './FooterForm.css';
 
 const Form = () => {

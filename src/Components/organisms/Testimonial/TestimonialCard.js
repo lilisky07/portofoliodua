@@ -1,6 +1,6 @@
 import React from 'react';
-import TestimonialText from '../atoms/TestimonialText';
-import TestimonialInfo from '../molecules/TestimonialInfo';
+import TestimonialText from '../../atoms/Testimonial/TestimonialText';
+import TestimonialInfo from '../../molecules/Testimonial/TestimonialInfo';
 import './TestimonialCard.css';
 
 const TestimonialCard = ({ text, image, name, rating }) => {

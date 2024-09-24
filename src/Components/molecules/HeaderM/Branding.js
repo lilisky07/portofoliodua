@@ -1,6 +1,6 @@
 import React from 'react';
-import Text from '../atoms/Text';
-import Button from '../atoms/ButtonHeader';
+import Text from '../../atoms/Header/Text.js';
+import ButtonHeader from '../../atoms/Header/ButtonHeader.js';
 
 const Branding = () => {
   return (
@@ -8,7 +8,7 @@ const Branding = () => {
       <Text content="Branding | 3D Making" size="18px" />
       <Text content="Visual Designer" size="68px" weight="600" />
       <Text content="We create amazing solutions for your business." size="16px" />
-      <Button label="Contact Us" />
+      <ButtonHeader label="Contact Us" />
     </div>
   );
 };

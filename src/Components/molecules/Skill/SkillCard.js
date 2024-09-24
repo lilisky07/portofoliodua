@@ -1,7 +1,7 @@
 import React from 'react';
-import SkillIcon from '../atoms/SkillIcon';
-import SkillTitle from '../atoms/SkillTitle';
-import SkillDescription from '../atoms/SkillDescription';
+import SkillIcon from '../../atoms/Skills/SkillIcon';
+import SkillTitle from '../../atoms/Skills/SkillTitle';
+import SkillDescription from '../../atoms/Skills/SkillDescription';
 import './SkillCard.css';
 
 const SkillCard = ({ iconSrc, iconAlt, title, description }) => {

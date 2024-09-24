@@ -1,6 +1,6 @@
 import React from 'react';
-import TestimonialName from '../atoms/TestimonialName';
-import TestimonialRating from '../atoms/TestimonialRating';
+import TestimonialName from '../../atoms/Testimonial/TestimonialName';
+import TestimonialRating from '../../atoms/Testimonial/TestimonialRating';
 import './TestimonialDetails.css';
 
 const TestimonialDetails = ({ name, rating }) => {

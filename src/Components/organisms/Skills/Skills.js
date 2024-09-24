@@ -1,9 +1,9 @@
 import React from 'react';
-import SkillCard from '../molecules/SkillCard';
+import SkillCard from '../../molecules/Skill/SkillCard';
 import './Skills.css';
-import Version1 from '../image/Version=1.png';
-import Version2 from '../image/Version=2.png';
-import Version3 from '../image/Version=3.png';
+import Version1 from '../../image/Version=1.png';
+import Version2 from '../../image/Version=2.png';
+import Version3 from '../../image/Version=3.png';
 
 const Skills = () => {
   return (

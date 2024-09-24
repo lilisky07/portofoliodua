@@ -1,5 +1,5 @@
 import React from 'react';
-import TestimonialCard from './TestimonialCard';
+import TestimonialCard from '../Testimonial/TestimonialCard';
 import './TestimonialList.css';
 
 const testimonials = [

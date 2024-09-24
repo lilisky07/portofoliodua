@@ -1,5 +1,5 @@
 import React from 'react';
-import TestimonialPhoto from '../atoms/TestimonialPhoto';
+import TestimonialPhoto from '../../atoms/Testimonial/TestimonialPhoto';
 import TestimonialDetails from './TestimonialDetails';
 import './TestimonialInfo.css';
 

@@ -1,8 +1,8 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Branding from '../molecules/Branding';
-import HeaderImage from '../image/HeaderImage.png'; // Import gambar header
-import LogoBar from '../image/LogoBar.png'; // Import gambar header
+import Branding from '../../molecules/HeaderM/Branding';
+import HeaderImage from '../../image/HeaderImage.png'; // Import gambar header
+import LogoBar from '../../image/LogoBar.png'; // Import gambar header
 
 
 const Header = () => {
