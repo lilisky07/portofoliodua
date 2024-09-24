@@ -1,14 +1,16 @@
 import React from 'react';
 import WorkItem from '../molecules/WorkItem';
 import './LatestWork.css';
+import work from '../image/Image.png';
 
 const LatestWork = () => {
   const works = [
     {
       id: 1,
+      imageSrc: {work},
       title: 'UI Design',
       description: 'Creating responsive user interfaces.',
-      imageUrl: '/image.png',
+      
     },
     {
       id: 2,
