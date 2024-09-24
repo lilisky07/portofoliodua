@@ -1,0 +1,48 @@
+/* Footer Form Container */
+.footer-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  /* Form Group Styling */
+  .footer-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  /* Form Input Styling */
+  .footer-form .form-control {
+    border-radius: 0;
+    border: 1px solid #ced4da;
+    padding: 10px;
+    background-color: #e8e8e8;
+    width: 100%; /* Ensure the input takes full width */
+  }
+  
+  /* Submit Button Styling */
+  .footer-form .btn {
+    background-color: #252526;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 0; /* Make the button edges sharp */
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  /* Submit Button Hover Effect */
+  .footer-form .btn:hover {
+    background-color: #666666; /* Darken button on hover */
+  }
+  
+  /* Responsive Footer Form */
+  @media (max-width: 768px) {
+    .footer-form .form-control {
+      width: 100%;
+    }
+  
+    .footer-form .btn {
+      width: 100%; /* Make the button take full width on smaller screens */
+    }
+  }
+  
