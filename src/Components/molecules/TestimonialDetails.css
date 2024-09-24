@@ -1,0 +1,16 @@
+.testimonial-details {
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+    flex-grow: 1;
+  }
+  
+  .testimonial-google {
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    color: #2D2D2D;
+    text-align: left;
+  }
+  

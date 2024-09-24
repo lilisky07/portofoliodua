@@ -1,0 +1,18 @@
+/* Social Media Icons Container */
+.social-icons {
+    display: flex;
+    gap: 15px;
+  }
+  
+  /* Individual Social Media Icon Styling */
+  .social-icon {
+    width: 24px;
+    height: 24px;
+    transition: transform 0.3s;
+  }
+  
+  /* Hover effect for Social Media Icons */
+  .social-icon:hover {
+    transform: scale(1.1); /* Slightly enlarge on hover */
+  }
+  

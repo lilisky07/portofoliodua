@@ -1,0 +1,9 @@
+.testimonial-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 42px;
+    gap: 68px;
+    background-color: #f9f9f9;
+  }
+  
